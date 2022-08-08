@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working at [Multiedro](https://www.multiedro.com.br/)
 
-- 🌱 I’m currently a master's student in Machine Learning at [Unicamp](https://www.unicamp.br/)
+- :books: I’m currently a master's student in Machine Learning at [Unicamp](https://www.unicamp.br/)
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, Data Tools, etc**
 
-- ⚡ I like astronomy, ancient history, oil painting, electronic games, traveling and **anything that involves Lord of the Rings**
+- :ghost: I like astronomy, ancient history, oil painting, electronic games, traveling and **anything that involves Lord of the Rings**
 
 <br><br>
 
