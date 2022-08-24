@@ -17,6 +17,8 @@
 
 ## 🛠 &nbsp;Tech Stack
 
+![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
+![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=arch-linux)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
@@ -29,6 +31,15 @@
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apachehadoop)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+<br><br>
+
+## :bar_chart: Repo Info:  
+
+#### Projetos 
+![Last Commit](https://img.shields.io/github/last-commit/ilicio/projetos) ![](https://img.shields.io/github/directory-file-count/ilicio/projetos) ![](https://img.shields.io/github/repo-size/ilicio/projetos) ![](https://img.shields.io/github/license/ilicio/projetos)
+
+
 
 <br><br>
 
