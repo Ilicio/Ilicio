@@ -40,6 +40,8 @@
 ![Last Commit](https://img.shields.io/github/last-commit/ilicio/projetos) ![](https://img.shields.io/github/directory-file-count/ilicio/projetos) ![](https://img.shields.io/github/repo-size/ilicio/projetos) ![](https://img.shields.io/github/license/ilicio/projetos)  
 #### Google-Cloud-Platform 
 ![Last Commit](https://img.shields.io/github/last-commit/ilicio/Google-Cloud-Platform) ![](https://img.shields.io/github/directory-file-count/ilicio/Google-Cloud-Platform) ![](https://img.shields.io/github/repo-size/ilicio/Google-Cloud-Platform) ![](https://img.shields.io/github/license/ilicio/Google-Cloud-Platform)
+#### Portfolio 
+![Last Commit](https://img.shields.io/github/last-commit/ilicio/Portfolio) ![](https://img.shields.io/github/directory-file-count/ilicio/Portfolio) ![](https://img.shields.io/github/repo-size/ilicio/Portfolio) ![](https://img.shields.io/github/license/ilicio/Portfolio)
 
 
 
