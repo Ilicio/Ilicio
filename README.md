@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ilício</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilicio&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 A Data Scientist focused on building solutions to help companies thrive in their business.
+- 🔥 A Head of Data and Data Scientist focused on building solutions to help companies thrive in their business.
 
 - 🔭 I’m currently working at [Multiedro](https://www.multiedro.com.br/)
 
