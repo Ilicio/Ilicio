@@ -28,6 +28,7 @@
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat&logo=keras)&nbsp;
 ![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-05122A?style=flat&logo=scikit-learn)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=pytorch)&nbsp;
 ![Spark](https://img.shields.io/badge/-Spark-05122A?style=flat&logo=apachespark)&nbsp;
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apachehadoop)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
