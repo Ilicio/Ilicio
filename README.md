@@ -33,6 +33,7 @@
 ![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=apachehadoop)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 
 <br><br>
 
