@@ -3,15 +3,15 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Ilício</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ilicio&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 A Head of Data and Data Scientist focused on building solutions to help companies thrive in their business.
+- :mortar_board: A Head of Data and Data Scientist focused on building solutions to help companies thrive in their business.
 
-- 🔭 I’m currently working at [Multiedro](https://www.multiedro.com.br/)
+- :office: I’m currently working at [Multiedro](https://www.multiedro.com.br/)
 
 - :books: I’m currently a master's student in Machine Learning at [Unicamp](https://www.unicamp.br/)
 
 - 💬 Ask me about **Machine Learning, Artificial Intelligence, Deep Learning, Data Tools, etc**
 
-- :ghost: I like astronomy, ancient history, oil painting, electronic games, traveling and **anything that involves Lord of the Rings**
+- :telescope: :milky_way: I like astronomy, ancient history, oil painting, electronic games, traveling and **anything that involves Lord of the Rings**
 
 <br><br>
 
