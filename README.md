@@ -19,6 +19,7 @@
 
 ![Google Cloud Platform](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=google-cloud)&nbsp;
 ![Arch Linux](https://img.shields.io/badge/-ArchLinux-05122A?style=flat&logo=arch-linux)&nbsp;
+![Shell Script](https://img.shields.io/badge/-Shell-05122A?style=flat&logo=windowsshell)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Numpy](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=numpy)&nbsp;
