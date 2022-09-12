@@ -59,8 +59,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ilicio&show_icons=true&theme=vision-friendly-dark" alt="ilicio's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilicio&theme=vision-friendly-dark&show_icons=true" alt="ilicio's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ilicio&show_icons=true&theme=chartreuse-dark" alt="ilicio's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilicio&theme=chartreuse-dark&show_icons=true" alt="ilicio's most languages"/>
 </p>
 
 <br><br>
