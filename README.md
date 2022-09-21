@@ -40,6 +40,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-05122A?style=flat&logo=mariadb)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 ![AirFlow](https://img.shields.io/badge/-AirFlow-05122A?style=flat&logo=apacheairflow)&nbsp;
+![ApacheBeam](https://img.shields.io/badge/-ApacheBeam-05122A?style=flat&logo=apachebeam)&nbsp;
 
 <br><br>
 
